@@ -1,0 +1,21 @@
+{
+  "name": "adzhna-theme",
+  "displayName": "Adzhna Theme",
+  "description": "Dark and minimalistic VSCode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Adzhna theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Adzhna theme-color-theme.json"
+      }
+    ]
+  }
+}
